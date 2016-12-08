@@ -7,7 +7,7 @@ import (
 	"github.com/jinzhu/gorm"
 	"encoding/json"
 	"net/http"
-	"CloudApp/goProject"
+	"goApp/goClient"
 	"strings"
 )
 type (
