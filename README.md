@@ -1,4 +1,3 @@
 # goApp
 Golang web application
 
-##########
